@@ -11,3 +11,7 @@ Build it:
 
 Run it:
 `docker container run --detach -p 80:80 linux_tweet_app`
+
+'''
+[![Build Status](https://travis-ci.com/alpayay/autobuilds.svg?branch=main)](https://travis-ci.com/alpayay/autobuilds)
+'''
